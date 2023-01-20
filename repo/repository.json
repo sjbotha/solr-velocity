@@ -21,7 +21,7 @@
           }
         ],
         "manifest": {
-          "version-constraint": "8 - 9",
+          "version-constraint": "8 - 9.1",
           "plugins": [
             {
               "name": "response-writer",
